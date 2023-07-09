@@ -1,4 +1,4 @@
-# paranoid-cover-ableton-live
+# Paranoid (Black Sabbath) synth cover
 
 This is my attempt to learn the basics of Ableton Live by doing a cover of [Paranoid]([url](https://en.wikipedia.org/wiki/Paranoid_(Black_Sabbath_song))https://en.wikipedia.org/wiki/Paranoid_(Black_Sabbath_song)) by [Black Sabbath]([url](https://en.wikipedia.org/wiki/Black_Sabbath)https://en.wikipedia.org/wiki/Black_Sabbath).
 
