@@ -16,7 +16,7 @@ Ozzy's voice is isolated via [Moises.ai](https://moises.ai/nl/) starting from an
 - [X] Bridge instruments (guitar, bass, drums)
 - [X] Outro instruments (guitar, bass, drums)
 - [X] Add voice and quantize it
-- [ ] Automation to completely silence the voice when not needed
+- [X] Automation to completely silence the voice when not needed
 - [ ] Record guitar solo
 - [ ] Choose final instruments for each track
 - [ ] Explore interesting more electro-pop variations for each instrument and phase of the song
