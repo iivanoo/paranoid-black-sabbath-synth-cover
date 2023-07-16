@@ -18,10 +18,10 @@ Ozzy's voice is isolated via [Moises.ai](https://moises.ai/nl/) starting from an
 - [X] Add voice and quantize it
 - [X] Automation to completely silence the voice when not needed
 - [X] Guitar solo (imported from a MIDI exported from the GP file)
-- [ ] Choose final instruments for each track
-- [ ] Explore interesting more electro-pop variations for each instrument and phase of the song
-- [ ] Add effects to all instruments
-- [ ] Add effects to voice
+- [X] Choose final instruments for each track
+- [X] Explore interesting more electro-pop variations for each instrument and phase of the song
+- [X] Add effects to all instruments
+- [X] Add effects to voice
 - [ ] Mixing (levels, reverb, panning, ...)
 - [ ] Mastering
 - [ ] Export and upload to YouTube
