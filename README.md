@@ -12,6 +12,16 @@ There is a MIDI track for each instrument, whereas vocals are rendered as an Aud
 
 Ozzy's voice is isolated via [Moises.ai](https://moises.ai/nl/) starting from an MP3 downloaded from [this YouTube video](https://www.youtube.com/watch?v=0qanF-91aJo).
 
+Version of Ableton Live: 11.3.4
+
+## Used instruments
+
+- [kHs ONE Synthesizer](https://bedroomproducersblog.com/2023/01/17/khs-one-discontinued/): lead guitar (intro and solo) and second pad
+- [Surge XT](https://surge-synthesizer.github.io/): main pad
+- [Surrealistic MG-1 Plus](https://cherryaudio.com/products/surrealistic-mg-1-plus): bass
+- DS drum rack with default samples from Ableton Live 11: snare drum and cymbals
+- 808 sample pack by [Music Radar](www.musicradar.com): kick drum
+
 ## Status and todo
 - [X] Intro (guitar, bass, drums)
 - [X] Verse instruments (guitar, bass, drums)
