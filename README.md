@@ -2,6 +2,8 @@
 
 This is my attempt to learn the basics of Ableton Live by doing a cover of [Paranoid]([url](https://en.wikipedia.org/wiki/Paranoid_(Black_Sabbath_song))https://en.wikipedia.org/wiki/Paranoid_(Black_Sabbath_song)) by [Black Sabbath]([url](https://en.wikipedia.org/wiki/Black_Sabbath)https://en.wikipedia.org/wiki/Black_Sabbath).
 
+You can listen to the song on YouTube by clicking on the image below.
+
 [![Watch the video](https://img.youtube.com/vi/CnxWZRFVYGk/hqdefault.jpg)](https://youtu.be/CnxWZRFVYGk)
 
 The song is completely done from scratch, but I had to import the guitar solo from a MIDI file. 
