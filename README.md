@@ -13,6 +13,7 @@ There is a MIDI track for each instrument, whereas vocals are rendered as an Aud
 Ozzy's voice is isolated via [Moises.ai](https://moises.ai/nl/) starting from an MP3 downloaded from [this YouTube video](https://www.youtube.com/watch?v=0qanF-91aJo).
 
 Version of Ableton Live: 11.3.4
+Cover image generated with [Stable Diffusion](https://ommer-lab.com/research/latent-diffusion-models).
 
 ## Used instruments
 
