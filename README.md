@@ -2,7 +2,9 @@
 
 This is my attempt to learn the basics of Ableton Live by doing a cover of [Paranoid]([url](https://en.wikipedia.org/wiki/Paranoid_(Black_Sabbath_song))https://en.wikipedia.org/wiki/Paranoid_(Black_Sabbath_song)) by [Black Sabbath]([url](https://en.wikipedia.org/wiki/Black_Sabbath)https://en.wikipedia.org/wiki/Black_Sabbath).
 
-The song is completely done from scratch. 
+[![Watch the video](https://img.youtube.com/vi/CnxWZRFVYGk/default.jpg)](https://youtu.be/CnxWZRFVYGk)
+
+The song is completely done from scratch, but I had to import the guitar solo from a MIDI file. 
 
 There is a MIDI track for each instrument, whereas vocals are rendered as an Audio track.
 
@@ -22,6 +24,6 @@ Ozzy's voice is isolated via [Moises.ai](https://moises.ai/nl/) starting from an
 - [X] Explore interesting more electro-pop variations for each instrument and phase of the song
 - [X] Add effects to all instruments
 - [X] Add effects to voice
-- [ ] Mixing (levels, reverb, panning, ...)
-- [ ] Mastering
-- [ ] Export and upload to YouTube
+- [X] Mixing (levels, reverb, panning, ...)
+- [X] Mastering
+- [X] Export and upload to YouTube
